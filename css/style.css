@@ -1,7 +1,7 @@
 
 :root {
-    --cor-primaria: #2c3e50;
-    --cor-secundaria: #3498db;
+    --cor-primaria: #9b0a0a;
+    --cor-secundaria: #4c5458;
     --cor-sucesso: #27ae60;
     --cor-alerta: #f39c12;
     --cor-perigo: #e74c3c;
@@ -243,6 +243,7 @@ h4 {
     font-size: 18px;
     font-weight: bold;
     margin-bottom: 10px;
+    
 }
 
 .cards-grid {
@@ -386,24 +387,6 @@ table tbody tr:last-child td {
     flex-shrink: 0;
 }
 
-
-footer {
-    background-color: var(--cor-primaria);
-    color: white;
-    text-align: center;
-    padding: 30px;
-    margin-top: auto;
-    border-top: 1px solid var(--cor-borda);
-}
-
-footer p {
-    margin: 5px 0;
-}
-
-footer a {
-    color: var(--cor-secundaria);
-    text-decoration: none;
-}
 
 .texto-centro {
     text-align: center;
